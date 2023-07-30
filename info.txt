@@ -1,0 +1,2 @@
+this file is created to store
+basic information about project
